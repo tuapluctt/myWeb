@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3fe5386-6106-4b59-a0eb-4489ccbab74c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xmlconfiguration/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xmlconfiguration/beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +17,7 @@
       <list>
         <option value="Interface" />
         <option value="package.json" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/hoangvantu2/Pr50/myWeb/src/main/resources/annotationconfiguration",
+    "last_opened_file_path": "/home/hoangvantu2/Pr50/myWeb/src/main/resources/beanScope",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,7 +62,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/beanScope" />
       <recent name="$PROJECT_DIR$/src/main/resources/annotationconfiguration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/setterconfiguration" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -74,7 +75,7 @@
       <recent name="annotationbasedconfiguration" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main3">
+  <component name="RunManager" selected="Application.beanscopes.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="myWeb" />
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotationbasedconfiguration.main" />
+    <configuration name="beanscopes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beanscopes.Main" />
       <module name="myWeb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotationbasedconfiguration.*" />
+          <option name="PATTERN" value="beanscopes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.beanscopes.Main" />
         <item itemvalue="Application.main3" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.main2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main2" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,8 @@
       <workItem from="1693474208216" duration="81000" />
       <workItem from="1693474324265" duration="291000" />
       <workItem from="1693474646139" duration="2632000" />
-      <workItem from="1693486600904" duration="4689000" />
+      <workItem from="1693486600904" duration="5777000" />
+      <workItem from="1693998192014" duration="3517000" />
     </task>
     <servers />
   </component>
